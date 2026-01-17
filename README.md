@@ -1,1 +1,1 @@
-# Parameterized_Constructor_in_Java
+# Parameterized_Constructor_in_Java: A parameterized constructor accepts arguments and assigns them to class variables. This allows different objects of the same class to be initialized with different values, improving flexibility and reducing the need for setter methods
